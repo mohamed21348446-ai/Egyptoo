@@ -1,0 +1,6 @@
+{
+  "name": "Egyptoo",
+  "description": "تطبيق التواصل الترفيهي Egyptoo: غرف عامة وخاصة بحسب الدول والأعلام، منشورات اجتماعية، مجموعات تفاعلية، بث صوتي، ألعاب وموسيقى، ولوحة إشراف حصرية للمشرف معتز.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
